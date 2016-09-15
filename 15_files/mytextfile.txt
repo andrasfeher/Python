@@ -1,0 +1,2 @@
+from fout:Hello world
+from print:Hello world
